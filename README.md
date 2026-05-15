@@ -1,17 +1,25 @@
-# ldsw_3_7_bases_de_datos
+# LDSW 3.7 Bases de datos
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para la actividad 3.7 Integración de base de datos.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Esta aplicación permite agregar notas desde una interfaz sencilla y almacenarlas en Firebase Cloud Firestore.  
+Cada nota incluye un título, contenido y fecha de creación.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase
+- Cloud Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades
+
+- Captura de título y contenido de una nota.
+- Guardado de datos en Firebase Cloud Firestore.
+- Visualización de notas almacenadas en tiempo real.
+
+## Evidencia
+
+La aplicación se conecta correctamente con Firebase y permite agregar datos mediante la app.
