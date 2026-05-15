@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826620575400",
+    "project_id": "gestor-notas-78d5b",
+    "storage_bucket": "gestor-notas-78d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826620575400:android:20bcd32de287f7c1a1cc9d",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_3_7_bases_de_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRRGwHLrcehSmGdaIy9CuBQQQImvDBOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
