@@ -2,6 +2,13 @@
 
 Aplicación móvil desarrollada en Flutter para la actividad 3.7 Integración de base de datos.
 
+### Información del Estudiante
+
+* **Nombre:** Rigoberto Velasquez
+* **Carrera:** Licenciatura en Desarrollo de Sistemas Web
+* **Institución:** Universidad de Guadalajara (UdeG)
+
+
 ## Descripción
 
 Esta aplicación permite agregar notas desde una interfaz sencilla y almacenarlas en Firebase Cloud Firestore.  
